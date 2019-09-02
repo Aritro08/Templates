@@ -1,0 +1,125 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #0F4C85;
+    text-align: center;
+    padding:10px;
+}
+#nbrand {
+	color:#00305B;
+}
+#navbarNav .navl:hover {
+	color:rgb(0,200,200);
+}
+#imge{
+	background-image: url("architectural-design-architecture-building-443383.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#contact{
+	background-image: url("sean-pollock-PhYq704ffdA-unsplash.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.head{
+	background-color: rgba(7, 35, 82,0.8);
+	padding: 400px 32px 500px 135px;
+}
+.foot{
+	background-color: rgba(7, 35, 82,0.8);
+	padding: 125px 32px 250px 135px;
+}
+.foot2{
+	background-color: rgba(12, 63, 145,0.8);
+	padding: 125px 32px 250px 75px;
+}
+.points{
+	padding: 85px 75px 50px 50px;
+	color:white;
+}
+.practice{
+	background-color: #e8effa;
+	padding-left: 135px;
+	padding-top: 85px;
+	padding-bottom: 300px;
+}
+.rale{
+	font-family: Raleway;
+	font-size: 42px;
+	color: white;
+	letter-spacing: 1.2px;
+}
+
+.rale2 {
+	font-family: Raleway;
+	font-size: 42px;
+	letter-spacing: 1.2px;
+	color:#00305B;
+}
+
+.Bold{
+	font-weight: bold;
+}
+
+.sans{
+	font-family: Open Sans;
+	font-size: 18px;
+	color:white ;
+	letter-spacing: 1.2px;
+}
+.sans2{
+	font-family: Open Sans;
+	font-size: 16px;
+	color:white ;
+	letter-spacing: 1.2px;
+}
+.sans3 {
+	font-family: Open Sans;
+	font-size:20px;
+	color: #00305B;
+	letter-spacing: 1.1px;
+	margin-bottom: 10px;
+}
+ul li p{
+	font-family: Open Sans;
+	font-size:14px;
+	color:#0F4C85;
+
+}
+#vision{
+	padding: 100px 100px 100px 100px;
+	background-color: #00305B;
+}
+#attorney{
+	padding: 100px 100px 100px 100px;
+	background-color: #e8effa;
+}
+hr{
+	width: 300px;
+}
+.btn {
+	width:150px;
+}
+input{
+	width:350px;
+	padding: 3px;
+}
+.navimg{
+	object-position: 50% 50%; 
+	width: 37px; 
+	height: 36px; 
+	object-fit: contain;
+}
+.attimg{
+	width: 192px; 
+	height: 222px;
+	object-fit:cover;
+}
+.textbox{
+	width:350px; 
+	height:118px; 
+	padding: 3px;
+	margin-top: 24px;
+}
